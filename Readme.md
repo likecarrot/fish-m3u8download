@@ -26,11 +26,11 @@ fish-m3u8downloader:<视频地址> -host <IP> --saveName <文件名> --Database 
 
 2.Media Go `软件设置`复制密钥 贴到猫抓
 
-![image-20260905192335579](D:\downloads\猫抓设置.assets\image-20260905192335579.png)
+![image-20260905192335579](./Image/image-20260905192335579.png)
 
 3.猫抓 `调用程序`   192.168.0.144是 Media Go部署的服务端.连接端口:8899(程序内固定)
 
-![image-20260905192237851](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20260905192237851.png)
+![image-20260905192237851](./Image/image-20260905192237851.png)
 
 
 
